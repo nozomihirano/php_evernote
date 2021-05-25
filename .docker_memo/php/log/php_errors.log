@@ -1,0 +1,15 @@
+[03-Oct-2020 16:29:25 Asia/Tokyo] PHP Parse error:  syntax error, unexpected end of file, expecting ';' or ',' in /var/www/html/login/index.php on line 2
+[03-Oct-2020 17:31:17 Asia/Tokyo] PHP Notice:  Undefined variable: user_name in /var/www/html/memo/index.php on line 13
+[03-Oct-2020 17:31:17 Asia/Tokyo] PHP Notice:  Undefined variable: memos in /var/www/html/memo/index.php on line 29
+[03-Oct-2020 17:31:17 Asia/Tokyo] PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/memo/index.php on line 29
+[10-Oct-2020 23:13:35 Asia/Tokyo] PHP Notice:  Only variables should be passed by reference in /var/www/html/user/action/register.php on line 17
+[10-Oct-2020 23:13:44 Asia/Tokyo] PHP Notice:  Only variables should be passed by reference in /var/www/html/user/action/register.php on line 17
+[10-Oct-2020 23:16:45 Asia/Tokyo] PHP Notice:  Only variables should be passed by reference in /var/www/html/user/action/register.php on line 17
+[10-Oct-2020 23:19:32 Asia/Tokyo] PHP Notice:  Only variables should be passed by reference in /var/www/html/user/action/register.php on line 17
+[10-Oct-2020 23:23:48 Asia/Tokyo] PHP Notice:  Only variables should be passed by reference in /var/www/html/user/action/register.php on line 17
+[11-Oct-2020 00:26:00 Asia/Tokyo] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/user/index.php on line 16
+[11-Oct-2020 00:26:01 Asia/Tokyo] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/user/index.php on line 16
+[11-Oct-2020 00:26:05 Asia/Tokyo] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/user/index.php on line 16
+[11-Oct-2020 17:08:51 Asia/Tokyo] PHP Notice:  Only variables should be passed by reference in /var/www/html/user/action/register.php on line 52
+[11-Oct-2020 23:07:22 Asia/Tokyo] PHP Notice:  Only variables should be passed by reference in /var/www/html/memo/action/update.php on line 20
+[11-Oct-2020 23:07:22 Asia/Tokyo] PHP Notice:  Only variables should be passed by reference in /var/www/html/memo/action/update.php on line 21
